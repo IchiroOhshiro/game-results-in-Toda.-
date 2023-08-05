@@ -87,3 +87,9 @@ h5 {
 footer {
   text-align: center;
 }
+
+@media(max-width: 375px) {
+  .container {
+    font-size:8px;
+  }
+}
